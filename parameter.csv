@@ -1,0 +1,8 @@
+parameter,value
+zone_A_capacity,80
+zone_B_capacity,40
+zone_C_capacity,40
+unit_pack_cost,1.5
+extra_unit_pack_cost,0.5
+faster_product_unit_unpack_cost,1
+normal_product_unit_unpack_cost,0.5
